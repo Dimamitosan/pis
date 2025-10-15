@@ -1,0 +1,30 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.header {
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+}
+.archive {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.one-post {
+  width: 700px;
+  border: 2px solid black;
+  padding: 0px 20px 20px 20px;
+  margin: 25px;
+}
+
+.post-title {
+  text-align: center;
+}
+.article-info {
+  margin-bottom: 20px;
+}
